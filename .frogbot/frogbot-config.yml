@@ -64,14 +64,14 @@
       # 2. The `installCommand` variable isn't set in your frogbot-config.yml file.
       #
       # The command that installs the project dependencies (e.g "nuget restore")
-      # - installCommand: ""
+      - installCommand: "dotnet restore"
 
       # [Default: root directory]
       # List of relative path's to the projects directories in the git repository
       - workingDirs:
-        - "."
-        #- "./ClassLibrary1"
-        #- "./TestApp1"
+        #- "."
+        - "./ClassLibrary1"
+        - "./TestApp1"
 
       # [Mandatory for pip only if using requirements file, Default: pip install .]
       # The requirements file name that is used to install dependencies in case of pip package manager
