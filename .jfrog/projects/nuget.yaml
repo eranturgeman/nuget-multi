@@ -1,0 +1,6 @@
+version: 1
+type: nuget
+resolver:
+    repo: default-nuget-remote
+    serverId: eranteco
+    nugetV2: true
