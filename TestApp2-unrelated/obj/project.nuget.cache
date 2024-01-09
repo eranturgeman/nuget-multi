@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p268qzV5Z9Lg78UZLvThyqTGB2n0wwNufNMgFhloQvZ9JE8R5iXnGnNzYqBv7MM7SmwSL4CnEonUfNj3HvoCnQ==",
+  "dgSpecHash": "wXCbVUL6ZRu9oKfq/WAYVEGlul3Cwenp/ZHt4n88IpvqRb1S2G9zDiDtIyXeTEwSISJk9XR/WZwuylQIFLNv+Q==",
   "success": true,
-  "projectFilePath": "/Users/erant/Desktop/my-project-examples/nuget-multi/TestApp1/TestApp1.csproj",
+  "projectFilePath": "/Users/erant/Desktop/my-project-examples/nuget-multi/TestApp2-unrelated/TestApp2-unrelated.csproj",
   "expectedPackageFiles": [
     "/Users/erant/.nuget/packages/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg.sha512",
     "/Users/erant/.nuget/packages/google.api.commonprotos/2.0.0/google.api.commonprotos.2.0.0.nupkg.sha512",
@@ -63,6 +63,8 @@
     "/Users/erant/.nuget/packages/serilog.sinks.eventlog/3.1.0/serilog.sinks.eventlog.3.1.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/serilog.sinks.file/4.0.0/serilog.sinks.file.4.0.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/snappier/1.1.0/snappier.1.1.0.nupkg.sha512",
+    "/Users/erant/.nuget/packages/ssh.net/2020.0.0/ssh.net.2020.0.0.nupkg.sha512",
+    "/Users/erant/.nuget/packages/sshnet.security.cryptography/1.3.0/sshnet.security.cryptography.1.3.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.appcontext/4.1.0/system.appcontext.4.1.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.collections/4.0.11/system.collections.4.0.11.nupkg.sha512",
