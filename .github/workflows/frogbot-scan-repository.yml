@@ -32,6 +32,8 @@ jobs:
 
           JFROG_CLI_LOG_LEVEL: ${{ secrets.JFROG_CLI_LOG_LEVEL }}
 
+          JF_PATH_EXCLUSIONS: "*git*;*node_modules*;*target*;*venv*;*test*;*TestApp1*"
+
           # [Mandatory if JF_ACCESS_TOKEN is not provided]
           # JFrog username with 'read' permissions for Xray. Must be provided with JF_PASSWORD
           # JF_USER: ${{ secrets.JF_USER }}
