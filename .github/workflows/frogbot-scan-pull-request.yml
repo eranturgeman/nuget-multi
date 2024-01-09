@@ -27,7 +27,7 @@ jobs:
           # The GitHub token is automatically generated for the job
           JF_GIT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          JF_PATH_EXCLUSIONS: "*git*;*node_modules*;*target*;*venv*;*test*;*api*;*shared*;*services*"
+          JF_PATH_EXCLUSIONS: "*git*;*node_modules*;*target*;*venv*;*test*;*TestApp1*"
 
           # [Optional, default: https://api.github.com]
           # API endpoint to GitHub
