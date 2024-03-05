@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IlAtq/CCOQriVresq/3HxwUv/qqWzyA/ELJF+nhdKizpa4q5iz4p9/dsdr+NtnU4vVNJqy/YqN6yardUr/8TrA==",
+  "dgSpecHash": "30maFwaJq2ifw51s+Yj87nQHic24/0usLKkhkWw3TnH6tC0cJympT2K1pgByvs+HsKbOvMU0ffuvEg8I+nFTdg==",
   "success": true,
   "projectFilePath": "/Users/erant/Desktop/my-project-examples/nuget-multi/ClassLibrary1/ClassLibrary1.csproj",
   "expectedPackageFiles": [
@@ -45,8 +45,9 @@
     "/Users/erant/.nuget/packages/serilog.settings.configuration/3.0.1/serilog.settings.configuration.3.0.1.nupkg.sha512",
     "/Users/erant/.nuget/packages/serilog.sinks.console/3.1.1/serilog.sinks.console.3.1.1.nupkg.sha512",
     "/Users/erant/.nuget/packages/serilog.sinks.eventlog/3.1.0/serilog.sinks.eventlog.3.1.0.nupkg.sha512",
-    "/Users/erant/.nuget/packages/serilog.sinks.file/4.0.0/serilog.sinks.file.4.0.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/snappier/1.1.0/snappier.1.1.0.nupkg.sha512",
+    "/Users/erant/.nuget/packages/ssh.net/2020.0.0/ssh.net.2020.0.0.nupkg.sha512",
+    "/Users/erant/.nuget/packages/sshnet.security.cryptography/1.3.0/sshnet.security.cryptography.1.3.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.appcontext/4.1.0/system.appcontext.4.1.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.collections/4.0.11/system.collections.4.0.11.nupkg.sha512",
@@ -86,13 +87,11 @@
     "/Users/erant/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
-    "/Users/erant/.nuget/packages/system.text.encoding.extensions/4.0.11/system.text.encoding.extensions.4.0.11.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.text.regularexpressions/4.1.0/system.text.regularexpressions.4.1.0.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.threading/4.0.11/system.threading.4.0.11.nupkg.sha512",
     "/Users/erant/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
-    "/Users/erant/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "/Users/erant/.nuget/packages/system.threading.timer/4.0.1/system.threading.timer.4.0.1.nupkg.sha512"
+    "/Users/erant/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
