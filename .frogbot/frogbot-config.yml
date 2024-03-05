@@ -58,7 +58,7 @@
       # minSeverity: ""
 
       # List of subprojects / project dirs inside the Git repository
-      projects:
+      #projects:
       # [Mandatory if the two conditions below are met]
       # 1. The project uses yarn 2, NuGet or .NET Core to download its dependencies
       # 2. The `installCommand` variable isn't set in your frogbot-config.yml file.
@@ -68,15 +68,15 @@
 
       # [Default: root directory]
       # List of relative path's to the projects directories in the git repository
-        - workingDirs:
-          - "./ClassLibrary1"
-          projectName: "ClassLibrary1"
+        #- workingDirs:
+          #- "./ClassLibrary1"
+          #projectName: "ClassLibrary1"
 
 
        #- installCommand: "dotnet restore --disable-build-servers"
-        - workingDirs:
-          - "./TestApp1"
-          projectName: "TestApp1"
+        #- workingDirs:
+          #- "./TestApp1"
+          #projectName: "TestApp1"
 
       # [Mandatory for pip only if using requirements file, Default: pip install .]
       # The requirements file name that is used to install dependencies in case of pip package manager
