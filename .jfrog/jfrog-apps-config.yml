@@ -9,6 +9,6 @@ modules:
       - "**/.vscode/**"
       - "**/.idea/**"
     exclude_scanners:
-      - "iac"
-      - "sast"
-      - "secrets"
+      #- "iac"
+      #- "sast"
+      #- "secrets"
